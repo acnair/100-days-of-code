@@ -5,6 +5,7 @@
 ### *I will code for at least an 1/2 and hour every day and gradually increase the time from 1/2 an hour to more for the next 100 days.*
 
 ## Start Date: **September 5, 2018**
+## Restart Date: **April 3, 2019**
 
 ## Additional Rules
 
