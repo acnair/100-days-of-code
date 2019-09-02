@@ -11,6 +11,9 @@
 ## Day 0 : 2 September 2019
 
 **Thoughts before starting:** I have already begun this venture but couldn't do justice to it. Let's see how much I can do this time.
+
 **Today's progress:** 
+
 **Thoughts after completing:**
+
 **Next day rough plan:** 
