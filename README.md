@@ -1,6 +1,7 @@
 # I've joined the #100DaysOfCode Challenge on 28 October 2018
-# Restarted on 2nd APRIL 2019
-# Restarted again on 2nd SEPTEMBER 2019
+
+## **Restarted on 2nd APRIL 2019**
+## **Restarted again on 2nd SEPTEMBER 2019**
 
 ## Contents
 
