@@ -33,3 +33,13 @@
 **Thoughts after completing:** Feels like I still need to figure out what my base languge should be, for placements C++ would do fine, but to do projects and other stuff.
 
 **Next day rough plan:** More algorithms and datastructure problems.
+
+## Day : 20 September 2019
+
+**Thoughts before starting:** Today was tough, just with the thought of placements I got super tensed and was in very fuckedup mood. But later decided that working hands on is what is going to help me and thinking about it won't help me. So decided to start.
+
+**Today's progress:** Today was good according to programming, spent some quality time solving question in Hackerrank in C++
+
+**Thoughts after completing:** Feels good knowing that working handson actually helps a lot of things. And UPDATE: not touching python or JS till I have some profeciency in CPP i.e. a proper flow in solving problems in CPP, because now learning a new language for competetive coding is stupid.
+
+**Next day rough plan:** More problems in HackerRank.

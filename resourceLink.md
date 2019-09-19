@@ -4,3 +4,7 @@
 
 ## Day: 1
 1. https://www.coursera.org/learn/python-data/home/welcome
+
+## Day: 2
+1. https://projecteuler.net/about
+1. 
