@@ -34,7 +34,7 @@
 
 **Next day rough plan:** More algorithms and datastructure problems.
 
-## Day : 20 September 2019
+## Day : 19 September 2019
 
 **Thoughts before starting:** Today was tough, just with the thought of placements I got super tensed and was in very fuckedup mood. But later decided that working hands on is what is going to help me and thinking about it won't help me. So decided to start.
 
