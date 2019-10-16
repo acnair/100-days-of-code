@@ -7,3 +7,4 @@
 
 # Books
 1. http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+1. Eloquent JavaScript  

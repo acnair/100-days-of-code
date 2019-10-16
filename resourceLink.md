@@ -8,3 +8,6 @@
 ## Day: 2
 1. https://projecteuler.net/about
 1. 
+
+## Day: 3
+1. 
